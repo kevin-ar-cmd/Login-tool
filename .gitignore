@@ -1,0 +1,15 @@
+# Credentials file
+.login_credentials
+
+# Lockout file
+.login_lockout
+
+# Failed attempts file
+.failed_attempts
+
+# Temporary files
+*.tmp
+*.swp
+
+# Log files (if you add logging)
+*.log
