@@ -25,7 +25,7 @@
 
     1.  Clone the repository:
        ```bash
-       git clone <your_repository_url> ~/.termux_login
+       git clone https://github.com/kevin-ar-cmd/Login-tool.git
        ```
     2.  Run the setup script:
        ```bash
