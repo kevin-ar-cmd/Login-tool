@@ -121,9 +121,9 @@ This project enforces password-based login for Termux sessions, adding a layer o
 
 1.  **Clone the repository:**
    ```bash
-   git clone <your_repository_url> ~/.termux_login
-   ```
-   Replace `<your_repository_url>` with the URL of your GitHub repository.
+   git clone https://github.com/kevin-ar-cmd/Login-tool.git
+   
+   termux_login
 
 2.  **Run the setup script:**
    ```bash
